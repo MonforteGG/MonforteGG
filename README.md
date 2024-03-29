@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy Alberto 👋</h1>
+<h1 align="center">Hola, soy Alberto 👋🏼</h1>
 </div>
 
 ## Sobre mí
@@ -14,6 +14,30 @@
  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MonforteGG&show_icons=true&locale=en&layout=compact" alt="MonforteGG" /></p>
+
+## Proyectos destacados:
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Tibia Discord Bot</h3>
+<div align="center">
+<a href="https://github.com/MonforteGG/soe-bot" target="_blank"><img src="https://i.imgur.com/lrlxnls.png" width="400" alt="Tibia Discord Bot"></a>
+<p>
+<a href="https://github.com/MonforteGG/soe-bot" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>Este es un <strong>bot</strong> de <strong>Discord</strong> para el juego <strong>Tibia</strong>, programado en <strong>Python</strong> con discord.py. Está diseñado para el servidor Mortalis de soerpg.com. Proporciona varias funciones como agregar nombres a una lista, hacer <strong>web scraping</strong> para verificar subidas de niveles y muertes de personajes, consultar quién está en línea y la ubicación de NPC Rashid. Además, utiliza <strong>OpenCV para procesar imágenes</strong> y clasificar el loot por lugares de venta, entre otras cosas.
+</p>
+</div>
+                                                                                      
+</td>
+</table>
+
+
+<br>
+
+
 
 ## Contacto
 
