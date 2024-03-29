@@ -19,10 +19,10 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Tibia Discord Bot</h3>
 <div align="center">
-<a href="https://github.com/MonforteGG/soe-bot" target="_blank"><img src="https://i.imgur.com/lrlxnls.png" width="400" alt="Tibia Discord Bot"></a>
+<a href="https://github.com/MonforteGG/soe-bot" target="_blank"><img src="https://i.imgur.com/edrGlY0.png" width="400" alt="Tibia Discord Bot"></a>
 <p>
+<br>
 <a href="https://github.com/MonforteGG/soe-bot" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
