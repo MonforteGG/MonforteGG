@@ -39,6 +39,9 @@ I'm always open to new opportunities and collaborations! You can find me at:
 <a href="https://www.linkedin.com/in/albdiamun/" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="https://www.upwork.com/freelancers/~0128aa2578b92fc863?mp_source=share" target="_blank">
+    <img alt="upwork" src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" />
+</a>
 <a href="mailto:albdiamun@gmail.com">
     <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
