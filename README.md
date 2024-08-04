@@ -14,9 +14,9 @@
 ## Highlighted Projects:
 <table>
 <tr>
-<td width="50%">
+<td width="50%"; padding: 0; vertical-align: top;>
 <div align="center">
-<a href="https://github.com/MonforteGG/soe-bot" target="_blank"><img src="https://i.imgur.com/edrGlY0.png" width="400" alt="Tibia Discord Bot"></a>
+<a href="https://github.com/MonforteGG/soe-bot" target="_blank"><img src="https://i.imgur.com/edrGlY0.png" width="400" height="200" alt="Tibia Discord Bot"></a>
 <p>
 <br>
 <a href="https://github.com/MonforteGG/soe-bot" target="_blank">
@@ -24,6 +24,20 @@
 </a>
 </p>
 <p>This is a <strong>Discord bot</strong> for the game <strong>Tibia</strong>, programmed in <strong>Python</strong> with discord.py. It is designed for the Mortalis server of soerpg.com. It provides various functions such as adding names to a list, performing <strong>web scraping</strong> to check level ups and character deaths, checking who is online, and NPC Rashid's location. Additionally, it uses <strong>OpenCV for image processing</strong> and loot classification by selling places, among other things.
+</p>
+</div>
+
+</td>
+<td width="50%"; padding: 0; vertical-align: top;>
+<div align="center">
+<a href="https://github.com/MonforteGG/energym" target="_blank"><img src="https://i.imgur.com/mxCV2AC.png" width="400" height="200" alt="Tibia Discord Bot"></a>
+<p>
+<br>
+<a href="https://github.com/MonforteGG/energym" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p> <strong>EnerGYM</strong> is a <strong>web application</strong> developed with <strong>Next.js</strong> and <strong>Tailwind CSS</strong>. It leverages the <strong>Spotify API</strong> and <strong>Vercel AI SDK</strong> to analyze the energy levels of your Spotify playlists. Simply input your playlist URL to receive an energy score for each song, helping you curate the perfect workout playlist. The app is optimized for both mobile and desktop use.
 </p>
 </div>
 
