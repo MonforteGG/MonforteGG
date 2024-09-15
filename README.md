@@ -49,7 +49,7 @@
 <a href="https://github.com/MonforteGG/idealisto" target="_blank"><img src="https://i.imgur.com/ygK374Y.png" width="300" height="200" alt="Idealisto Telegram Bot"></a>
 <p>
 <br>
-<a href="https://github.com/MonforteGG/soe-bot" target="_blank">
+<a href="https://github.com/MonforteGG/idealisto" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
