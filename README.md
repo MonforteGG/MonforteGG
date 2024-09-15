@@ -1,4 +1,4 @@
-<div align="center">
+
  <img src="https://i.imgur.com/Gn8h1FP.png"></img>
 </div>
 
@@ -42,6 +42,23 @@
 </div>
 
 </td>
+</tr>
+<tr>
+<td width="50%"; padding: 0; vertical-align: top;>
+<div align="center">
+<a href="https://github.com/MonforteGG/idealisto" target="_blank"><img src="https://i.imgur.com/ygK374Y.png" width="300" height="200" alt="Idealisto Telegram Bot"></a>
+<p>
+<br>
+<a href="https://github.com/MonforteGG/soe-bot" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p>This is a <strong>Telegram bot</strong> programmed in <strong>Python</strong>. It automates the retrieval of housing listings from <strong>Idealista</strong> and saves only new listings to a <strong>MySQL database</strong>. It compares the price per square meter to the average of previously stored listings and sends notifications to a <strong>Telegram group</strong> with the most relevant information, including new listings and price changes.
+</p>
+</div>
+
+</td>
+</tr>
 </table>
 
 <br>
