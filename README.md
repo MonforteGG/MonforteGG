@@ -53,7 +53,7 @@
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>This is a <strong>Telegram bot</strong> programmed in <strong>Python</strong>. It automates the retrieval of housing listings from <strong>Idealista</strong> and saves only new listings to a <strong>MySQL database</strong>. It compares the price per square meter to the average of previously stored listings and sends notifications to a <strong>Telegram group</strong> with the most relevant information, including new listings and price changes.
+<p>This is a <strong>Telegram bot</strong> programmed in <strong>Python</strong>. It automates the retrieval of housing listings from <strong>Idealista</strong> and saves only new listings to a <strong>SQLite database</strong>. It compares the price per square meter to the average of previously stored listings and sends notifications to a <strong>Telegram group</strong> with the most relevant information, including new listings and price changes.
 </p>
 </div>
 
