@@ -3,7 +3,7 @@
 </div>
 
 ## About me
-- 💻 Student in the Multiplatform Application Development higher education program
+- 💻 Software Developer
 - 🎓 Graduate in Business Administration and Management
 
 ## Languages and Tools
