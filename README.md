@@ -37,7 +37,7 @@
 </td>
 <td width="50%"; padding: 0; vertical-align: top;>
 <div align="center">
-<a href="https://github.com/MonforteGG/raycast-minimax" target="_blank"><img src="https://opengraph.githubassets.com/1/MonforteGG/raycast-minimax" width="400" height="200" alt="Raycast MiniMax"></a>
+<a href="https://github.com/MonforteGG/raycast-minimax" target="_blank"><img src="https://raw.githubusercontent.com/MonforteGG/raycast-minimax/main/metadata/minimax-ai-1.png" width="400" height="200" alt="Raycast MiniMax"></a>
 <p>
 <br>
 <a href="https://github.com/MonforteGG/raycast-minimax" target="_blank">
@@ -67,7 +67,7 @@
 </td>
 <td width="50%"; padding: 0; vertical-align: top;>
 <div align="center">
-<a href="https://github.com/MonforteGG/gititdown" target="_blank"><img src="https://opengraph.githubassets.com/1/MonforteGG/gititdown" width="400" height="200" alt="GitItDown"></a>
+<a href="https://github.com/MonforteGG/gititdown" target="_blank"><img src="https://github.com/user-attachments/assets/35d6b67f-6766-4b21-81d1-5519850ff05e" width="400" height="200" alt="GitItDown"></a>
 <p>
 <br>
 <a href="https://github.com/MonforteGG/gititdown" target="_blank">
