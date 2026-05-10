@@ -18,8 +18,6 @@
 ## TOOLS
 <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MonforteGG&show_icons=true&locale=en&layout=compact" alt="MonforteGG" /></p>
-
 ## Highlighted Projects:
 <table>
 <tr>
