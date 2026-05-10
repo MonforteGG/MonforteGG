@@ -37,14 +37,14 @@
 </td>
 <td width="50%"; padding: 0; vertical-align: top;>
 <div align="center">
-<a href="https://github.com/MonforteGG/energym" target="_blank"><img src="https://i.imgur.com/mxCV2AC.png" width="400" height="200" alt="Tibia Discord Bot"></a>
+<a href="https://github.com/MonforteGG/raycast-minimax" target="_blank"><img src="https://opengraph.githubassets.com/1/MonforteGG/raycast-minimax" width="400" height="200" alt="Raycast MiniMax"></a>
 <p>
 <br>
-<a href="https://github.com/MonforteGG/energym" target="_blank">
+<a href="https://github.com/MonforteGG/raycast-minimax" target="_blank">
 <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p> <strong>EnerGYM</strong> is a <strong>web application</strong> developed with <strong>Next.js</strong> and <strong>Tailwind CSS</strong>. It leverages the <strong>Spotify API</strong> and <strong>Vercel AI SDK</strong> to analyze the energy levels of your Spotify playlists. Simply input your playlist URL to receive an energy score for each song, helping you curate the perfect workout playlist. The app is optimized for both mobile and desktop use.
+<p>A <strong>Raycast extension</strong> built with <strong>TypeScript</strong> that provides AI chat powered by <strong>MiniMax models</strong>. Features real-time streaming responses, persistent conversation history, dual-region API support (China & International), quick question mode, and concise mode for focused answers.
 </p>
 </div>
 
@@ -61,6 +61,20 @@
 </a>
 </p>
 <p>This is a <strong>Telegram bot</strong> programmed in <strong>Python</strong>. It automates the retrieval of housing listings from <strong>Idealista</strong> and saves only new listings to a <strong>SQLite database</strong>. It compares the price per square meter to the average of previously stored listings and sends notifications to a <strong>Telegram group</strong> with the most relevant information, including new listings and price changes.
+</p>
+</div>
+
+</td>
+<td width="50%"; padding: 0; vertical-align: top;>
+<div align="center">
+<a href="https://github.com/MonforteGG/gititdown" target="_blank"><img src="https://opengraph.githubassets.com/1/MonforteGG/gititdown" width="400" height="200" alt="GitItDown"></a>
+<p>
+<br>
+<a href="https://github.com/MonforteGG/gititdown" target="_blank">
+<img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+</p>
+<p><strong>GitItDown</strong> is a <strong>cross-platform markdown note-taking app</strong> built with <strong>Flutter</strong> that uses your <strong>GitHub repository</strong> as storage backend. Available on iOS, Android, Windows, macOS, Linux and Web. Features full markdown rendering, version control via Git history, and secure token storage.
 </p>
 </div>
 
